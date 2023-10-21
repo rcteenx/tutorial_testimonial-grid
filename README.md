@@ -1,6 +1,6 @@
-# Simple Tailwind by rcteenx
+# Simple Tailwind Starter by rcteenx
 
-Tutorial based on the Tailwind course of Brad Traversgit
+Simple Tailwind Starter based on the Tailwind course of Brad Travers
 
 ## Section 4: A Better Development Environment
 
