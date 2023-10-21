@@ -4,7 +4,7 @@ Simple Tailwind Starter based on the Tailwind course of Brad Travers
 
 ## Section 4: A Better Development Environment
 
-## Setup Terminal Codes
+## First Setup Terminal Codes
 [Installation - Tailwind CSS]
 (https://tailwindcss.com/docs/installation)
 
@@ -21,6 +21,12 @@ npm run build
 
 npm run watch
 
+```
+
+## How to use after download
+
+```bash
+ npm install
 ```
 
 ## References:
