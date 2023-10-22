@@ -10,6 +10,10 @@ Clone the repo:
 gh repo clone rcteenx/tailwind-starter-rcteenx
 git remote rm origin
 ```
+After New Repo
+```bash
+    git push --set-upstream origin main
+```
 
 Install the dependencies:
 
