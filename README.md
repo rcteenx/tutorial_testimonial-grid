@@ -7,7 +7,8 @@ Simple Tailwind Starter based on the Tailwind course of Brad Travers
 Clone the repo:
 
 ```bash
-git clone
+gh repo clone rcteenx/tailwind-starter-rcteenx
+git remote rm origin
 ```
 
 Install the dependencies:
