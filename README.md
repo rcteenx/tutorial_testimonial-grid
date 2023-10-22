@@ -2,6 +2,32 @@
 
 Simple Tailwind Starter based on the Tailwind course of Brad Travers
 
+## Usage
+
+Clone the repo:
+
+```bash
+git clone
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Build or watch the CSS file:
+
+```bash
+# Build once
+npm run build
+
+# Watch for changes
+npm run watch
+```
+
+This will watch the `src/input.css` file and build it to `css/style.css`, which will be your final CSS file.
+
 ## Section 4: A Better Development Environment
 
 ## First Setup Terminal Codes
@@ -21,12 +47,6 @@ npm run build
 
 npm run watch
 
-```
-
-## How to use after download
-
-```bash
- npm install
 ```
 
 ## References:
